@@ -36,8 +36,11 @@ void setup()
 
 void loop()
 {
+  /*
   func1(); //Button detection
   func2(); //Menu de seleccion
+  */
+ funcDesva(10);
 }
 /////////////////////////////////////////////
 void func1()
